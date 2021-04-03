@@ -72,7 +72,7 @@ email: "f.bianchi@unibocconi.it"
 highlight_name: true
 ---
 
-Hello! I am Federico Bianchi, a post-doctoral researcher at Bocconi University (with Prof. Dirk Hovy), Milan, Italy. I was a PhD Student at University of Milan-Bicocca (Prof. Matteo Palmonari) and a Visiting Scholar at Wright State University, Ohio, US (Prof. Pascal Hitzler).
+Hello! I am Federico Bianchi, a post-doctoral researcher at Bocconi University (with Prof. Dirk Hovy), Milan, Italy. 
 
 You can find my work in the main track of different AI venues (e.g., NAACL, EACL, [AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/4594/4472), [ACL](https://www.aclweb.org/anthology/2020.acl-main.154.pdf), [ISWC](https://link.springer.com/chapter/10.1007/978-3-030-00671-6_4), [RecSys](https://blog.coveo.com/multi-brand-personalization-in-ecommerce/)) and Q1 Journals (e.g., Cognitive Science, [Nature PJQI](https://www.nature.com/articles/s41534-020-0248-6), [SWJ](http://www.semantic-web-journal.net/system/files/swj2188.pdf)) and a few things have also been featured in press or in company media outlets (see, [1](https://phys.org/news/2020-02-machine-quantum-optics.html),
 [2](https://www.photonics.com/Articles/Neural_Network_Improves_Quantum_Tomography/a65552),
