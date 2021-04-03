@@ -81,4 +81,5 @@ You can find my work in the main track of different AI venues (e.g., NAACL, EACL
 
 I have different interests that range from neuro-symbolic learning and reasoning to natural language processing and from quantum physics to deep learning for the e-commerce.
 
+
 I have also worked/collaborated with companies: I have collaborated as a Data Scientist for Instal LLC and I have an ongoing research collaboration with people at Coveo on e-commerce and recommendation research. In the past, I worked as a full-stack software developer for Mobave LLC (later acquired by Instal) and for Whattaspot.
