@@ -27,7 +27,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/SttBW1mTo5w)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/5mZ_M06Fc9g)'
   focal_point: Right
 
 links:
