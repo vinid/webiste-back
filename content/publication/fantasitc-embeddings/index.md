@@ -42,10 +42,12 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-
+links:
+ - name: Blog Post
+   url: https://blog.coveo.com/multi-brand-personalization-in-ecommerce/
 
 url_pdf: 'https://arxiv.org/abs/2007.14906'
-url_code: ''
+url_code: 'https://github.com/coveooss/fantastic-embeddings-sigir-2020'
 url_dataset: ''
 url_poster: ''
 url_project: ''
