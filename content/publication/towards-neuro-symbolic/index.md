@@ -7,7 +7,7 @@ title: "Towards bridging the neuro-symbolic gap: deep deductive reasoners."
 authors:
 - Monireh Ebrahimi
 - Aaron Eberhart
-- Federico Bianchi 
+- admin
 - Pascal Hitzler 
 
 
@@ -30,9 +30,9 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In Applied Intelligence.
-publication_short: In *Appl. Intell.*
+publication_short: In *Applied Intelligence*
 
-abstract: "Symbolic knowledge representation and reasoning and deep learning are fundamentally different approaches to artificial intelligence with complementary capabilities. The former are transparent and data-efficient, but they are sensitive to noise and cannot be applied to non-symbolic domains where the data is ambiguous. The latter can learn complex tasks from examples, are robust to noise, but are black boxes; require large amounts of –not necessarily easily obtained– data, and are slow to learn and prone to adversarial examples. Either paradigm excels at certain types of problems where the other paradigm performs poorly. In order to develop stronger AI systems, integrated neuro-symbolic systems that combine artificial neural networks and symbolic reasoning are being sought. In this context, one of the fundamental open problems is how to perform logic-based deductive reasoning over knowledge bases by means of trainable artificial neural networks. This paper provides a brief summary of the authors’ recent efforts to bridge the neural and symbolic divide in the context of deep deductive reasoners. Throughout the paper we will discuss strengths and limitations of models in term of accuracy, scalability, transferability, generalizabiliy, speed, and interpretability, and finally, will talk about possible modifications to enhance desirable capabilities. More specifically, in terms of architectures, we are looking at Memory-augmented networks, Logic Tensor Networks, and compositions of LSTM models to explore their capabilities and limitations in conducting deductive reasoning. We are applying these models on Resource Description Framework (RDF), first-order logic, and the description logic EL+ respectively.
+abstract: Symbolic knowledge representation and reasoning and deep learning are fundamentally different approaches to artificial intelligence with complementary capabilities. The former are transparent and data-efficient, but they are sensitive to noise and cannot be applied to non-symbolic domains where the data is ambiguous. The latter can learn complex tasks from examples, are robust to noise, but are black boxes; require large amounts of –not necessarily easily obtained– data, and are slow to learn and prone to adversarial examples. Either paradigm excels at certain types of problems where the other paradigm performs poorly. In order to develop stronger AI systems, integrated neuro-symbolic systems that combine artificial neural networks and symbolic reasoning are being sought. In this context, one of the fundamental open problems is how to perform logic-based deductive reasoning over knowledge bases by means of trainable artificial neural networks. This paper provides a brief summary of the authors’ recent efforts to bridge the neural and symbolic divide in the context of deep deductive reasoners. Throughout the paper we will discuss strengths and limitations of models in term of accuracy, scalability, transferability, generalizabiliy, speed, and interpretability, and finally, will talk about possible modifications to enhance desirable capabilities. More specifically, in terms of architectures, we are looking at Memory-augmented networks, Logic Tensor Networks, and compositions of LSTM models to explore their capabilities and limitations in conducting deductive reasoning. We are applying these models on Resource Description Framework (RDF), first-order logic, and the description logic EL+ respectively.
 # Summary. An optional shortened abstract.
 #summary: We investigate grounded language learning through real-world data, by modelling a teacher-learner dynamics through the natural interactions occurring between users and search engines.
 
