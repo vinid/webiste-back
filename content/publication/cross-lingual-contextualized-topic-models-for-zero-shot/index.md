@@ -51,7 +51,7 @@ url_code: 'https://github.com/MilaNLProc/contextualized-topic-models'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://docs.google.com/presentation/d/11Yb8n3BwQAAGhnIwKCI2n9DNYmVCcec-JRFAwQVvwK8/edit?usp=sharing'
 url_source: ''
 url_video: ''
 
