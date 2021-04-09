@@ -36,7 +36,8 @@ abstract: We investigate grounded language learning through real-world data, by 
 # Summary. An optional shortened abstract.
 summary: We investigate grounded language learning through real-world data, by modelling a teacher-learner dynamics through the natural interactions occurring between users and search engines.
 
-tags: []
+tags: ["NLP", "Meaning", "Linguistics", "BERT", "Embeddings", "Language Models"]
+
 
 # Display this page in the Featured widget?
 featured: true

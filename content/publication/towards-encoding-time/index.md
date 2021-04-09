@@ -36,7 +36,7 @@ abstract: Knowledge Graphs (KG) are widely used abstractions to represent entity
 # Summary. An optional shortened abstract.
 #summary: We investigate grounded language learning through real-world data, by modelling a teacher-learner dynamics through the natural interactions occurring between users and search engines.
 
-tags: []
+tags: ["Semantic Web", "NLP", "KG", "Embeddings"]
 
 # Display this page in the Featured widget?
 featured: false

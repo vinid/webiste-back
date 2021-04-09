@@ -29,12 +29,12 @@ publication_types: ["1"]
 publication: Pre-Print
 publication_short: Pre-print
 
-abstract: "This paper addresses the challenge of leveraging multiple embedding spaces for multi-shop personalization, proving that zero-shot inference is possible by transferring shopping intent from one website to another without manual intervention. We detail a machine learning pipeline to train and optimize embeddings within shops first, and support the quantitative findings with additional qualitative insights. We then turn to the harder task of using learned embeddings across shops: if products from different shops live in the same vector space, user intent - as represented by regions in this space - can then be transferred in a zero-shot fashion across websites. We propose and benchmark unsupervised and supervised methods to “travel” between embedding spaces, each with its own assumptions on data quantity and quality. We show that zero-shot personalization is indeed possible at scale by testing the shared embedding space with two downstream tasks, event prediction and type-ahead suggestions. Finally, we curate a cross-shop anonymized embeddings dataset to foster an inclusive discussion of this important business scenario."
+abstract: Topic models extract meaningful groups of words from documents, allowing for a better understanding of data. However, the solutions are often not coherent enough, and thus harder to interpret. Coherence can be improved by adding more contextual knowledge to the model. Recently, neural topic models have become available, while BERT-based representations have further pushed the state of the art of neural models in general. We combine pre-trained representations and neural topic models. Pre-trained BERT sentence embeddings indeed support the generation of more meaningful and coherent topics than either standard LDA or existing neural topic models. Results on four datasets show that our approach effectively increases topic coherence. 
 
 # Summary. An optional shortened abstract.
 summary: "We introduce a novel topic modeling method that can provide highly coherent topics thanks to the use of contextualized embeddings."
 
-tags: []
+tags: ["NLP", "Topic Modeling", "BERT", "Language Models"]
 
 # Display this page in the Featured widget?
 featured: false

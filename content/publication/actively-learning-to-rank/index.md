@@ -1,66 +1,57 @@
 ---
-title: "FEEL-IT: Emotion and Sentiment Classification for the Italian Language"
+title: "Actively Learning to Rank Semantic Associations for Personalized Contextual Exploration of Knowledge Graphs"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Federico Bianchi
-- Debora Nozza
-- Dirk Hovy
-
+- admin
+- Matteo Palmonari
+- Marco Cremaschi
+- Elisabetta Fersini
 
 
 # Author notes (optional)
 #author_notes:
 
 
-date: "2021-02-06T00:00:00Z"
-doi: ""
+date: "2017-07-02T00:00:00Z"
+doi: "https://doi.org/10.1007/978-3-319-58068-5_8"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-02-06T00:00:00"
+publishDate: "2017-07-02T00:00:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In 11th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis.
-publication_short: In *WASSA*
+publication: In Extended Semantic Web Conference
+publication_short: In *ESWC*
 
-abstract: "Sentiment analysis is a common task to understand people's reactions online. 
-Still, we often need more nuanced information: is the post negative because the user 
-is angry or because they are sad? 
-An abundance of approaches has been introduced for tackling both tasks. 
-However, at least for Italian, they all treat only one of the tasks at a time. 
-We introduce FEEL-IT, a novel benchmark corpus of Italian Twitter posts annotated with four basic 
-emotions: anger, fear, joy, sadness. By collapsing them, we can also do sentiment analysis. We evaluate our corpus on benchmark datasets for both emotion and sentiment classification,  obtaining competitive results. 
-We release an open-source Python library, so researchers can use a model trained on FEEL-IT for inferring both sentiments and emotions from Italian text."
+abstract: Knowledge Graphs (KG) represent a large amount of Semantic Associations (SAs), i.e., chains of relations that may reveal interesting and unknown connections between different types of entities. Applications for the contextual exploration of KGs help users explore information extracted from a KG, including SAs, while they are reading an input text. Because of the large number of SAs that can be extracted from a text, a first challenge in these applications is to effectively determine which SAs are most interesting to the users, defining a suitable ranking function over SAs. However, since different users may have different interests, an additional challenge is to personalize this ranking function to match individual users’ preferences. In this paper we introduce a novel active learning to rank model to let a user rate small samples of SAs, which are used to iteratively learn a personalized ranking function. Experiments conducted with two data sets show that the approach is able to improve the quality of the ranking function with a limited number of user interactions.
+
 # Summary. An optional shortened abstract.
 #summary: We investigate grounded language learning through real-world data, by modelling a teacher-learner dynamics through the natural interactions occurring between users and search engines.
 
-tags: ["NLP", "Sentiment Analysis", "BERT", "Embeddings", "Language Models"]
+tags: ["Semantic Web", "NLP", "KG"]
 
 # Display this page in the Featured widget?
 featured: false
 
 # Custom links (uncomment lines below)
-links:
- - name: Blog Post
-   url: https://towardsdatascience.com/sentiment-analysis-and-emotion-recognition-in-italian-using-bert-92f5c8fe8a2
 
 
-url_pdf: ''
-url_code: 'https://github.com/MilaNLProc/feel-it'
+url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-319-58068-5_8'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'http://videolectures.net/eswc2017_bianchi_knowledge_graphs/'
 
 
 

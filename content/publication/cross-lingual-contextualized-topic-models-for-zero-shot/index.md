@@ -36,7 +36,7 @@ abstract: Many data sets (e.g., reviews, forums, news, etc.) exist parallelly in
 # Summary. An optional shortened abstract.
 summary: We introduce a novel topic modeling method that can make use of contextulized embeddings (e.g., BERT) to do zero-shot cross-lingual topic modeling.
 
-tags: []
+tags: ["NLP", "Topic Modeling", "BERT", "Language Models"]
 
 # Display this page in the Featured widget?
 featured: true
@@ -60,7 +60,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Our Model'
+  caption: 'Our Model, ZeroShotTM'
   focal_point: ""
   preview_only: false
 

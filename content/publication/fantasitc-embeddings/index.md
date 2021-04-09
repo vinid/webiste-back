@@ -36,7 +36,7 @@ abstract: "This paper addresses the challenge of leveraging multiple embedding s
 # Summary. An optional shortened abstract.
 summary: "In this paper we work on aligning product embeddings that come from different shops. We use techniques from machine translation to provide an effective method for alignment."
 
-tags: []
+tags: ["NLP", "Ecommerce", "Embeddings", "Language Models"]
 
 # Display this page in the Featured widget?
 featured: false
