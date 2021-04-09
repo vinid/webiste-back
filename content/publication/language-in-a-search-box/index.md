@@ -44,6 +44,10 @@ featured: true
 
 # Custom links (uncomment lines below)
 
+links:
+ - name: Tweet
+   url: https://twitter.com/fb_vinid/status/1370065050061447178
+
 
 url_pdf: ''
 url_code: ''
