@@ -1,11 +1,10 @@
 ---
-title: Talk: Vector Space Alignment for Semantic Change Analysis
+title: "Talk: Vector Space Alignment for Semantic Change Analysis"
 
 event: Invited Talk
 
 
 location: Tilburg University
-
 
 summary: The use of compass aligned embeddings for semantic change analysis.
 

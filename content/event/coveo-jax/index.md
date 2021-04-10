@@ -1,5 +1,5 @@
 ---
-title: Learning JAX for Great Good
+title: "Talk: Learning JAX for Great Good"
 
 event: Invited Talk
 

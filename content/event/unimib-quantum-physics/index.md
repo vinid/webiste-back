@@ -1,5 +1,5 @@
 ---
-title: Talk: Deep Learning for Quantum Problems
+title: "Talk: Deep Learning for Quantum Problems"
 
 event: Invited Talk
 
