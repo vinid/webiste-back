@@ -1,5 +1,5 @@
 ---
-title: Vector Space Alignment for Semantic Change Analysis
+title: Talk: Vector Space Alignment for Semantic Change Analysis
 
 event: Invited Talk
 

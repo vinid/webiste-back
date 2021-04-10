@@ -1,5 +1,5 @@
 ---
-title: On the Capabilities of Logic Tensor Networks for Deductive Reasoning
+title: "Talk: On the Capabilities of Logic Tensor Networks for Deductive Reasoning"
 
 event: Conference Presentation
 

@@ -1,5 +1,5 @@
 ---
-title: "Fantastic Embeddings and How to Align Them: Zero-Shot Inference in a Multi-Shop Scenario"
+title: "Talk: Fantastic Embeddings and How to Align Them"
 
 event: SIGIR#Ecom
 
