@@ -17,8 +17,8 @@ subtitle:
 
 ---
 
-I think research should be easy to access and to replicate. You can find most of my papers on ArXiv and on
-open access platforms. The code I write is available online and I try to make it easy to use so that everyone can 
+I think scientific research should be easy to access and to replicate. You can find most of my papers on ArXiv and on
+open access platforms - unfortunately, this is not always possible. The code I write is available online and I try to make it easy to use so that everyone can 
 benefit from it.
 
 I also try to actively participate in scientific communication. I have many [blog posts online](https://fbvinid.medium.com/), explaining different 
