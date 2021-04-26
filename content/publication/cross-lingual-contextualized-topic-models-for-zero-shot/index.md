@@ -46,7 +46,7 @@ links:
  - name: Blog Post
    url: https://fbvinid.medium.com/contextualized-topic-modeling-with-python-eacl2021-eacf6dfa576
 
-url_pdf: 'https://arxiv.org/pdf/2004.07737.pdf'
+url_pdf: 'https://www.aclweb.org/anthology/2021.eacl-main.143.pdf'
 url_code: 'https://github.com/MilaNLProc/contextualized-topic-models'
 url_dataset: ''
 url_poster: ''

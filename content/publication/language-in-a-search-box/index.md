@@ -49,8 +49,8 @@ links:
    url: https://twitter.com/fb_vinid/status/1370065050061447178
 
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://arxiv.org/pdf/2104.08874.pdf'
+url_code: 'https://github.com/coveooss/naacl-2021-grounded-semantics'
 url_dataset: ''
 url_poster: ''
 url_project: ''
