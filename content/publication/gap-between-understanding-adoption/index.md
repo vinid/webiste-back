@@ -36,6 +36,11 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
+links:
+ - name: Blog Post
+   url: https://towardsdatascience.com/on-the-gap-between-adoption-and-understanding-971c3d63f524
+
+
 url_pdf: ''
 url_code: ''
 url_dataset: ''

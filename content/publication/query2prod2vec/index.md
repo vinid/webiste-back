@@ -1,13 +1,13 @@
 ---
-title: "Language in a (Search) Box: Grounding Language Learning in Real-World Human-Machine Interaction"
+title: "Query2Prod2Vec: Grounded Word Embeddings for eCommerce"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Ciro Greco
 - Jacopo Tagliabue
+- Bingqing Yu
 
 
 
@@ -31,12 +31,12 @@ publication_types: ["1"]
 publication: In Proceedings of *The North American Chapter of the Association for Computational Linguistics*
 publication_short: In *NAACL-HLT*
 
-abstract: We investigate grounded language learning through real-world data, by modelling a teacher-learner dynamics through the natural interactions occurring between users and search engines; in particular, we explore the emergence of semantic generalization from unsupervised dense representations outside of synthetic environments. A grounding domain, a denotation function and a composition function are learned from user data only. We show how the resulting semantics for noun phrases exhibits compositional properties while being fully learnable without any explicit labelling. We benchmark our grounded semantics on compositionality and zero-shot inference tasks, and we show that it provides higher accuracy and better generalizations than SOTA non-grounded models, such as word2vec and BERT.
+abstract: "We present Query2Prod2Vec, a model that grounds lexical representations for product search in product embeddings: in our model, meaning is a mapping between words and a latent space of products in a digital shop. We leverage shopping sessions to learn the underlying space and use merchandising annotations to build lexical analogies for evaluation: our experiments show that our model is more accurate than known techniques from the NLP and IR literature. Finally, we stress the importance of data efficiency for product search outside of retail giants, and highlight how Query2Prod2Vec fits with practical constraints faced by most practitioners."
 
 # Summary. An optional shortened abstract.
-summary: We investigate grounded language learning through real-world data, by modelling a teacher-learner dynamics through the natural interactions occurring between users and search engines.
+summary: "We present Query2Prod2Vec, a model that grounds lexical representations for product search in product embeddings: in our model, meaning is a mapping between words and a latent space of products in a digital shop. We leverage shopping sessions to learn the underlying space and use merchandising annotations to build lexical analogies for evaluation: our experiments show that our model is more accurate than known techniques from the NLP and IR literature. Finally, we stress the importance of data efficiency for product search outside of retail giants, and highlight how Query2Prod2Vec fits with practical constraints faced by most practitioners."
 
-tags: ["NLP", "Meaning", "Linguistics", "BERT", "Embeddings", "Language Models"]
+tags: ["NLP", "Meaning", "Linguistics", "BERT", "Embeddings", "Language Models", "eCommerce"]
 
 
 # Display this page in the Featured widget?
@@ -45,12 +45,12 @@ featured: true
 # Custom links (uncomment lines below)
 
 links:
- - name: Tweet
-   url: https://twitter.com/fb_vinid/status/1370065050061447178
+ - name: Best Industry Paper Award
+   url: certificate.pdf
 
 
-url_pdf: 'https://www.aclweb.org/anthology/2021.naacl-main.348/'
-url_code: 'https://github.com/coveooss/naacl-2021-grounded-semantics'
+url_pdf: 'https://www.aclweb.org/anthology/2021.naacl-industry.20.pdf'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''

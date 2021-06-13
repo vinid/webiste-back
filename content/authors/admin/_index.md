@@ -47,7 +47,7 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/fb_vinid
+  link: https://twitter.com/federicobianchy
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=1okGjb8AAAAJ
