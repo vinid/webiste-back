@@ -41,7 +41,7 @@ links:
    url: https://towardsdatascience.com/on-the-gap-between-adoption-and-understanding-971c3d63f524
 
 
-url_pdf: ''
+url_pdf: 'https://aclanthology.org/2021.findings-acl.340.pdf'
 url_code: ''
 url_dataset: ''
 url_poster:

@@ -53,7 +53,7 @@ links:
    url: https://towardsdatascience.com/sentiment-analysis-and-emotion-recognition-in-italian-using-bert-92f5c8fe8a2
 
 
-url_pdf: ''
+url_pdf: 'https://aclanthology.org/2021.wassa-1.8.pdf'
 url_code: 'https://github.com/MilaNLProc/feel-it'
 url_dataset: ''
 url_poster: ''
