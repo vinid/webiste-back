@@ -1,30 +1,30 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "On the Gap between Adoption and Understanding in NLP"
-authors: [Federico Bianchi, Dirk Hovy]
-date: 2021-08-06
+title: "Contrastive Language-Image Pre-training for the Italian Language"
+authors: [Federico Bianchi, Giuseppe Attanasio, Raphael Pisoni, Silvia Terragni, Gabriele Sarti, Sri Lakshmi]
+date: 2021-08-22
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-05-06T01:41:26+01:00
+publishDate: 2021-08-22T01:41:26+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In Findings of the Association for Computational Linguistics: ACL 2021"
-publication_short: "In *Findings of the Association for Computational Linguistics*" 
+publication: "In ArXiv"
+publication_short: "In *ArXiv*" 
 
-abstract: "There are some issues with current research trends in NLP that can hamper the free development of scientific research. We identify five of particular concern: 1) the early adoption of methods without sufficient understanding or analysis; 2) the preference for computational methods regardless of risks associated with their limitations; 3) the resulting bias in the papers we publish; 4) the impossibility of re-running some experiments due to their cost; 5) the dangers of unexplainable methods.  If these issues are not addressed, we risk a loss of reproducibility, reputability, and subsequently public trust in our field. In this position paper, we outline each of these points and suggest ways forward." 
+abstract: "CLIP (Contrastive Language-Image Pre-training) is a very recent multi-modal model that jointly learns representations of images and texts. The model is trained on a massive amount of English data and shows impressive performance on zero-shot classification tasks. Training the same model on a different language is not trivial, since data in other languages might be not enough and the model needs high-quality translations of the texts to guarantee a good performance. In this paper, we present the first CLIP model for the Italian Language (CLIP-Italian), trained on more than 1.4 million image-text pairs. Results show that CLIP-Italian outperforms the multilingual CLIP model on the tasks of image retrieval and zero-shot classification." 
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Position Paper, Issues, NLP]
+tags: [Multimodal, Vision, NLP]
 categories: []
 featured: false
 
@@ -37,12 +37,11 @@ featured: false
 #   icon: twitter
 
 links:
- - name: Blog Post
-   url: https://towardsdatascience.com/on-the-gap-between-adoption-and-understanding-971c3d63f524
+ - name: Demo
+   url: https://huggingface.co/spaces/clip-italian/clip-italian-demo
 
-
-url_pdf: 'https://aclanthology.org/2021.findings-acl.340.pdf'
-url_code: ''
+url_pdf: 'https://arxiv.org/abs/2108.08688'
+url_code: 'https://github.com/clip-italian/clip-italian/'
 url_dataset: ''
 url_poster:
 url_project:
