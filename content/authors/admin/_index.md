@@ -97,4 +97,5 @@ I have also worked/collaborated with companies:
 I have collaborated as a Data Scientist for Instal LLC and 
 I have an ongoing research collaboration with people at Coveo on e-commerce and recommendation research. 
 
- 
+I have given talks in different places for both Universities (e.g., Edinburgh University, Sussex University, Tilburg University) 
+and Companies (Coveo Labs, LightOn AI) and tutorials at major AI Conferences (IJCAI, IJCLR).
