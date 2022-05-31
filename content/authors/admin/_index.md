@@ -72,9 +72,9 @@ highlight_name: true
 ---
 
 Hello! I am Federico Bianchi, soon to be post-doctoral researcher at Stanford University (starting July 1st 2022) with
-[Prof. Dan Jurafsky](https://web.stanford.edu/~jurafsky/)). I was a post-doctoral researcher at Bocconi University 
+[Prof. Dan Jurafsky](https://web.stanford.edu/~jurafsky/). I was a post-doctoral researcher at Bocconi University 
 (with [Prof. Dirk Hovy](http://dirkhovy.com/)), Milan, Italy. I did my PhD at University of Milano Bicocca 
-(with [Prof. Matteo Palmonari](https://scholar.google.it/citations?user=QmrLvqYAAAAJ&hl=en))
+(with [Prof. Matteo Palmonari](https://scholar.google.it/citations?user=QmrLvqYAAAAJ&hl=en)).
 
 You can find my work in the main track of different AI venues (e.g., 
 [NAACL](https://aclanthology.org/2021.naacl-main.348/), [EACL](https://aclanthology.org/2021.eacl-main.143/), [AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/4594/4472), 
