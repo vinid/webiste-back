@@ -1,5 +1,5 @@
 ---
-title: "Query2Prod2Vec: Grounded Word Embeddings for eCommerce"
+title: "Beyond NDCG: behavioral testing of recommender systems with RecList"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -31,7 +31,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In Proceedings of *WWW*
-publication_short: In *W*
+publication_short: In *WWW*
 
 abstract: "As with most Machine Learning systems, recommender systems are typically evaluated through performance metrics computed over held-out data points. However, real-world behavior is undoubtedly nuanced: ad hoc error analysis and deployment-specific tests must be employed to ensure the desired quality in actual deployments. In this paper, we propose RecList, a behavioral-based testing methodology. RecList organizes recommender systems by use case and introduces a general plug-and-play procedure to scale up behavioral testing. We demonstrate its capabilities by analyzing known algorithms and black-box commercial systems, and we release RecList as an open source, extensible package for the community."
 
