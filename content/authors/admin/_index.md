@@ -10,8 +10,8 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Bocconi University
-  url: https://www.unibocconi.it
+- name: Stanford University
+  url: https://profiles.stanford.edu/federico-bianchi
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include meaning in natural language and programming languages.
@@ -65,13 +65,13 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "f.bianchi@unibocconi.it"
+email: "fede@unibocconi.it"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Hello! I am Federico Bianchi, soon to be post-doctoral researcher at Stanford University (starting July 1st 2022) with
+Hello! I am Federico Bianchi, I am a post-doctoral researcher at Stanford University with
 [Prof. Dan Jurafsky](https://web.stanford.edu/~jurafsky/). I was a post-doctoral researcher at Bocconi University 
 (with [Prof. Dirk Hovy](http://dirkhovy.com/)), Milan, Italy. I did my PhD at University of Milano Bicocca 
 (with [Prof. Matteo Palmonari](https://scholar.google.it/citations?user=QmrLvqYAAAAJ&hl=en)).
