@@ -1,14 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Measuring Harmful Sentence Completion in Language Models for LGBTQIA+ Individuals"
 
+title: "Measuring Harmful Sentence Completion in Language Models for LGBTQIA+ Individuals"
+authors:
 - Debora Nozza
 - admin
 - Dirk Hovy
 - Anne Lauscher
 
-- date: 2022-04-12
+date: 2022-04-12
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

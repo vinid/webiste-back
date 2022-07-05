@@ -3,6 +3,7 @@
 
 title: "XLM-EMO: Multilingual Emotion Prediction in Social Media Text"
 
+authors:
 - admin
 - Debora Nozza
 - Dirk Hovy
