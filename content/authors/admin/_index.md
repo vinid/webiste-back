@@ -6,7 +6,7 @@ title: Federico Bianchi
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Postdoctoral Researcher at Stanford University
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -41,9 +41,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
+- icon: chalkboard
   icon_pack: fas
-  link: '/#contact'
+  link: https://profiles.stanford.edu/federico-bianchi
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/federicobianchy
