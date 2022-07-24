@@ -27,10 +27,10 @@ publication_short: "12th Workshop on Computational Approaches to Subjectivity, S
 abstract: "Detecting emotion in text allows social and computational scientists to study how people behave and react to online events. However, developing these tools for different languages requires data that is not always available. This paper collects the available emotion detection datasets across 19 languages. We train a multilingual emotion prediction model for social media data, XLM-EMO. The model shows competitive performance in a zero-shot setting, suggesting it is helpful in the context of low-resource languages. We release our model to the community so that interested researchers can directly use it."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "We use Large Multilingual Language Models to create a tool for multilingual emotion prediction"
 
 
-tags: ["Sentiment Analysis","Emotion Detection","Italian","BERT","NLP", "dataset","multilingual"]
+tags: ["Sentiment Analysis", "Language Models", "Emotion Detection","Italian","BERT","NLP", "Dataset","Multilingual"]
 categories: []
 featured: false
 
