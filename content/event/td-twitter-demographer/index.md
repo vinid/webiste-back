@@ -8,8 +8,10 @@ location: Text as Data PoliSci Reading Group
 
 summary: "In this talk we describe our newest package for enriching Twitter data"
 
-
-abstract: """
+abstract: "Using Twitter data has now become an essential element of effective research. Political and social scientists are 
+now making use of these data to extract meaningful insights from real world events. To help researchers, we have designed a tool
+that can be used to add additional information, such as user (binary) gender, disambiguated locations and even HuggingFace classifiers information to support
+their work."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
