@@ -9,10 +9,10 @@ summary: "In this blog post, I discuss our latest published paper on topic model
 projects: [CTM]
 
 # Date published
-date: "2022-08-11T00:00:00Z"
+date: "2021-08-11T00:00:00Z"
 
 # Date updated
-lastmod: "2022-08-11T00:00:00Z"
+lastmod: "2021-08-11T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
