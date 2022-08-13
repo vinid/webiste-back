@@ -10,6 +10,9 @@ main:
   - name: Featured
     url: '#featured'
     weight: 20
+  - name: Posts
+    url: "#posts"
+    weight: 25
   - name: Research Philosophy
     url: '#philosophy'
     weight: 30

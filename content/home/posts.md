@@ -7,16 +7,16 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 35
 
-title: Featured Publications
+title: Blog Posts
 subtitle: ""
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: publication
+  page_type: post
   # Choose how many pages you would like to display (0 = all pages)
-  count: 3
+  count: 0
   # Filter on criteria
   filters:
     author: ""
@@ -26,7 +26,7 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
-design:
+design: 
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
@@ -34,3 +34,4 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+
