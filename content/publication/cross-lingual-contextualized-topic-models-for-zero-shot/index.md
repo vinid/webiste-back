@@ -39,7 +39,7 @@ summary: We introduce a novel topic modeling method that can make use of context
 tags: ["NLP", "Topic Modeling", "BERT", "Language Models"]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:

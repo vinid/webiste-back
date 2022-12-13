@@ -40,7 +40,7 @@ tags: ["NLP", "Meaning", "Linguistics", "BERT", "Embeddings", "Language Models"]
 
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 
