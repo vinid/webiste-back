@@ -74,7 +74,8 @@ highlight_name: true
 Hello! I am Federico Bianchi, I am a post-doctoral researcher at Stanford University with
 [Prof. Dan Jurafsky](https://web.stanford.edu/~jurafsky/). I was a post-doctoral researcher at Bocconi University 
 (with [Prof. Dirk Hovy](http://dirkhovy.com/)), Milan, Italy. I did my PhD at University of Milano Bicocca 
-(with [Prof. Matteo Palmonari](https://scholar.google.it/citations?user=QmrLvqYAAAAJ&hl=en)).
+(with [Prof. Matteo Palmonari](https://scholar.google.it/citations?user=QmrLvqYAAAAJ&hl=en)). I have also worked/collaborated with companies.
+
 
 You can find my work in the main track of different AI venues (e.g., 
 [NAACL](https://aclanthology.org/2021.naacl-main.348/), [EACL](https://aclanthology.org/2021.eacl-main.143/), [AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/4594/4472), 
@@ -90,10 +91,10 @@ You can find my work in the main track of different AI venues (e.g.,
 [3](https://www.knowledge.unibocconi.eu/notizia.php?idArt=21787),
 [4](https://blog.coveo.com/multi-brand-personalization-in-ecommerce/)).
 
-I have also worked/collaborated with companies: 
-I have collaborated as a Data Scientist for Instal LLC and 
-I have an ongoing research collaboration with people at Coveo on e-commerce and recommendation research. 
 
 I have given talks in different places for both Universities (e.g., Edinburgh University, Sussex University, 
 Tilburg University) and Companies (Coveo Labs, LightOn AI, MLOPS Neptune Podcast, Tecton) 
 and tutorials at major AI Conferences (IJCAI, IJCLR).
+
+I recently joined the [Giving What We Can](https://www.givingwhatwecan.org/) initiative and donate monthly; 
+You should consider joining, if you can. While I haven't formally [pledged](https://www.givingwhatwecan.org/pledge) yet, I hope to be able to do so soon.
