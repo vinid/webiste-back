@@ -14,7 +14,7 @@ organizations:
   url: https://profiles.stanford.edu/federico-bianchi
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include meaning in natural language and programming languages.
+bio: My research interests include developing and understanding large language (and vision) models and recommender systems.
 
 # Interests to show in About widget
 interests:
@@ -65,24 +65,21 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "fede@unibocconi.it"
+email: "fede@stanford.edu
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
 Hello! I am Federico Bianchi, I am a post-doctoral researcher at Stanford University with
-[Prof. Dan Jurafsky](https://web.stanford.edu/~jurafsky/). I was a post-doctoral researcher at Bocconi University 
-(with [Prof. Dirk Hovy](http://dirkhovy.com/)), Milan, Italy. I did my PhD at University of Milano Bicocca 
-(with [Prof. Matteo Palmonari](https://scholar.google.it/citations?user=QmrLvqYAAAAJ&hl=en)). I have also worked/collaborated with companies.
-
+[Prof. Dan Jurafsky](https://web.stanford.edu/~jurafsky/).
 
 You can find my work in the main track of different AI venues (e.g., 
 [NAACL](https://aclanthology.org/2021.naacl-main.348/), [EACL](https://aclanthology.org/2021.eacl-main.143/), [AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/4594/4472), 
 [ACL](https://www.aclweb.org/anthology/2020.acl-main.154.pdf), 
-[ISWC](https://link.springer.com/chapter/10.1007/978-3-030-00671-6_4), 
+[ICLR](https://openreview.net/forum?id=KRLUvxh8uaX), 
 [RecSys](https://blog.coveo.com/multi-brand-personalization-in-ecommerce/))
- and Q1 Journals (e.g., [Cognitive Science](https://onlinelibrary.wiley.com/doi/10.1111/cogs.12963),
+ and Journals (e.g., [Cognitive Science](https://onlinelibrary.wiley.com/doi/10.1111/cogs.12963),
   [Nature PJQI](https://www.nature.com/articles/s41534-020-0248-6), 
   [SWJ](http://www.semantic-web-journal.net/system/files/swj2188.pdf)) 
   and my work as also been featured in press or in company media outlets 
@@ -91,10 +88,9 @@ You can find my work in the main track of different AI venues (e.g.,
 [3](https://www.knowledge.unibocconi.eu/notizia.php?idArt=21787),
 [4](https://blog.coveo.com/multi-brand-personalization-in-ecommerce/)).
 
+I have experience in building and deploying large language models (e.g., [FashionCLIP](https://huggingface.co/patrickjohncyh/fashion-clip)), 
+model understanding (e.g., [VLMs Analysis](https://openreview.net/forum?id=KRLUvxh8uaX)) and fairness in recommender systems (e.g., [EvalRS](https://www.nature.com/articles/s42256-022-00606-0.pdf)).
 
-I have given talks in different places for both Universities (e.g., Edinburgh University, Sussex University, 
-Tilburg University) and Companies (Coveo Labs, LightOn AI, MLOPS Neptune Podcast, Tecton) 
-and tutorials at major AI Conferences (IJCAI, IJCLR).
 
 I recently joined the [Giving What We Can](https://www.givingwhatwecan.org/) initiative and donate monthly; 
 You should consider joining, if you can. While I haven't formally [pledged](https://www.givingwhatwecan.org/pledge) yet, I hope to be able to do so soon.

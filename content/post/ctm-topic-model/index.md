@@ -18,14 +18,14 @@ lastmod: "2021-08-11T00:00:00Z"
 draft: false
 
 # Show this page in the Featured widget?
-featured: true
+featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: 'CTM Architecture'
   focal_point: ""
-  placement: 2
+  placement: 3
   preview_only: false
 
 authors:
