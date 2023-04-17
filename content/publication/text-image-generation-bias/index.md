@@ -19,17 +19,17 @@ date: 2022-11-07
 doi: "https://doi.org/10.48550/arXiv.2211.03759"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-11-07T14:48:20+01:00
+publishDate: 2023-03-07T14:48:20+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Arxiv"
-publication_short: "Arxiv"
+publication: "FAccT"
+publication_short: "FAccT"
 
 abstract: "Machine learning models are now able to convert user-written text descriptions into naturalistic images. These models are available to anyone online and are being used to generate millions of images a day. We investigate these models and find that they amplify dangerous and complex stereotypes. Moreover, we find that the amplified stereotypes are difficult to predict and not easily mitigated by users or model owners. The extent to which these image-generation models perpetuate and amplify stereotypes and their mass deployment is cause for serious concern."
 

@@ -13,6 +13,9 @@ main:
   - name: Posts
     url: "#posts"
     weight: 25
+  - name: Outreach
+    url: "#outreach"
+    weight: 27
   - name: Research Philosophy
     url: '#philosophy'
     weight: 30
