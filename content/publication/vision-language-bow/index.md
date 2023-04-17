@@ -6,7 +6,7 @@ title: "When and Why Vision-Language Models Behave like Bags-Of-Words, and What 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Mert Yuksekgonul 
-- Federico Bianchi
+- admin
 - Pratyusha   Kalluri 
 - Dan Jurafsky 
 - James Zou
