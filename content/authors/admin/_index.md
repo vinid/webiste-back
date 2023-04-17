@@ -74,14 +74,11 @@ highlight_name: true
 Hello! I am Federico Bianchi, I am a post-doctoral researcher at Stanford University with
 [Prof. Dan Jurafsky](https://web.stanford.edu/~jurafsky/).
 
-You can find my work in the main track of different AI venues (e.g., 
-[NAACL](https://aclanthology.org/2021.naacl-main.348/), [EACL](https://aclanthology.org/2021.eacl-main.143/), [AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/4594/4472), 
-[ACL](https://www.aclweb.org/anthology/2020.acl-main.154.pdf), 
-[ICLR](https://openreview.net/forum?id=KRLUvxh8uaX), 
-[RecSys](https://blog.coveo.com/multi-brand-personalization-in-ecommerce/))
+You can find my work in the main track of different AI venues (e.g., [AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/4594/4472), 
+[ACL](https://www.aclweb.org/anthology/2020.acl-main.154.pdf), [ICLR](https://openreview.net/forum?id=KRLUvxh8uaX), 
+[NAACL](https://aclanthology.org/2021.naacl-main.348/), [EACL](https://aclanthology.org/2021.eacl-main.143/))
  and Journals (e.g., [Cognitive Science](https://onlinelibrary.wiley.com/doi/10.1111/cogs.12963),
-  [Nature PJQI](https://www.nature.com/articles/s41534-020-0248-6), 
-  [SWJ](http://www.semantic-web-journal.net/system/files/swj2188.pdf)) 
+  [Nature PJQI](https://www.nature.com/articles/s41534-020-0248-6)) 
   and my work as also been featured in press or in company media outlets 
   (see, [1](https://phys.org/news/2020-02-machine-quantum-optics.html),
 [2](https://www.photonics.com/Articles/Neural_Network_Improves_Quantum_Tomography/a65552),
