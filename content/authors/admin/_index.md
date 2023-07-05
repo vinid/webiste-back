@@ -81,7 +81,7 @@ I love the multifaceted nature of the field; it allows me to engage in different
 [LLaMA and LoRA](https://outerbounds.com/blog/llm-tuning-metaflow/), 
 [FashionCLIP](https://huggingface.co/patrickjohncyh/fashion-clip)) 
 * To gaining deep insights into their inner workings (e.g., [Compositionality in Vision and Language](https://openreview.net/forum?id=KRLUvxh8uaX)). 
-* Moreover, I recognize the importance of safety and ethical implications of Generative AI, making it an integral part of my work (e.g., [DallE And Stable Diffusion](https://arxiv.org/abs/2211.03759). 
+* Moreover, I recognize the importance of safety and ethical implications of Generative AI, making it an integral part of my work (e.g., [DallE And Stable Diffusion](https://arxiv.org/abs/2211.03759)). 
 By actively participating in each stage of the process, I aim to contribute to the advancement and responsible use of generative AI technology.
 
 You can find my work in the main track of different AI venues (e.g., [AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/4594/4472), 
