@@ -72,16 +72,16 @@ highlight_name: true
 ---
 
 Hello! I am Federico Bianchi, I am a post-doctoral researcher at Stanford University with
-[Prof. Dan Jurafsky](https://web.stanford.edu/~jurafsky/).
+[Prof. Dan Jurafsky](https://web.stanford.edu/~jurafsky/). I am passionate about working across the entire spectrum of AI and more recent generative AI.
+ 
 
-I am passionate about working across the entire spectrum of AI and more recent generative AI,
-considering all the phases from model development and deployment, to model understanding and safety evaluation. 
-I love the multifaceted nature of the field, that allows me to engage in tasks ranging 
-from constructing foundation models (see for example, ([Instruction Tuning](https://outerbounds.com/blog/custom-llm-tuning/),
+I love the multifaceted nature of the field; it allows me to engage in different tasks and contribute to the development:
+
+* from constructing foundation models (see for example, ([Instruction Tuning](https://outerbounds.com/blog/custom-llm-tuning/),
 [LLaMA and LoRA](https://outerbounds.com/blog/llm-tuning-metaflow/), 
-[FashionCLIP](https://huggingface.co/patrickjohncyh/fashion-clip)) to gaining 
-deep insights into their inner workings (see for example, [Compositionality in Vision and Language](https://openreview.net/forum?id=KRLUvxh8uaX)). 
-Moreover, I recognize the importance of safety and ethical implications of Generative AI, making it an integral part of my work (see for example, [DallE And Stable Diffusion](https://arxiv.org/abs/2211.03759). 
+[FashionCLIP](https://huggingface.co/patrickjohncyh/fashion-clip)) 
+* to gaining deep insights into their inner workings (see for example, [Compositionality in Vision and Language](https://openreview.net/forum?id=KRLUvxh8uaX)). 
+* Moreover, I recognize the importance of safety and ethical implications of Generative AI, making it an integral part of my work (see for example, [DallE And Stable Diffusion](https://arxiv.org/abs/2211.03759). 
 By actively participating in each stage of the process, I aim to contribute to the advancement and responsible use of generative AI technology.
 
 You can find my work in the main track of different AI venues (e.g., [AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/4594/4472), 
