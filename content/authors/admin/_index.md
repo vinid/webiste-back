@@ -77,7 +77,7 @@ Hello! I am Federico Bianchi, I am a post-doctoral researcher at Stanford Univer
 
 I love the multifaceted nature of the field; it allows me to engage in different tasks and contribute to the development:
 
-* From constructing foundation models (e.g., ([Instruction Tuning](https://outerbounds.com/blog/custom-llm-tuning/),
+* From constructing foundation models (e.g., [Instruction Tuning](https://outerbounds.com/blog/custom-llm-tuning/),
 [LLaMA and LoRA](https://outerbounds.com/blog/llm-tuning-metaflow/), 
 [FashionCLIP](https://huggingface.co/patrickjohncyh/fashion-clip)) 
 * To gaining deep insights into their inner workings (e.g., [Compositionality in Vision and Language](https://openreview.net/forum?id=KRLUvxh8uaX)). 
