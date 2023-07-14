@@ -84,18 +84,16 @@ I love the multifaceted nature of the field; it allows me to engage in different
 * Moreover, I recognize the importance of safety and ethical implications of Generative AI, making it an integral part of my work (e.g., [DallE And Stable Diffusion](https://arxiv.org/abs/2211.03759)). 
 By actively participating in each stage of the process, I aim to contribute to the advancement and responsible use of generative AI technology.
 
-You can find my work in the main track of different AI venues (e.g., [AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/4594/4472), 
+My work appeared in different AI venues (e.g., [AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/4594/4472), 
 [ACL](https://www.aclweb.org/anthology/2020.acl-main.154.pdf), [ICLR](https://openreview.net/forum?id=KRLUvxh8uaX), 
-[NAACL](https://aclanthology.org/2021.naacl-main.348/), [EACL](https://aclanthology.org/2021.eacl-main.143/))
- and Journals (e.g., [Cognitive Science](https://onlinelibrary.wiley.com/doi/10.1111/cogs.12963),
-  [Nature PJQI](https://www.nature.com/articles/s41534-020-0248-6)) 
-  and my work as also been featured in press or in company media outlets 
+[NAACL](https://aclanthology.org/2021.naacl-main.348/), [EACL](https://aclanthology.org/2021.eacl-main.143/)).
+  and it has as also been featured in press or in company media outlets 
   (see, [1](https://phys.org/news/2020-02-machine-quantum-optics.html),
 [2](https://www.photonics.com/Articles/Neural_Network_Improves_Quantum_Tomography/a65552),
 [3](https://www.knowledge.unibocconi.eu/notizia.php?idArt=21787),
 [4](https://blog.coveo.com/multi-brand-personalization-in-ecommerce/)).
 
+* I often collaborate with industry partners (e.g., [Coveo](https://blog.coveo.com/multi-brand-personalization-in-ecommerce/), [OuterBounds](https://outerbounds.com/blog/llm-tuning-metaflow/).
+* My GitHub projects have collected many stars over the past few years (e.g., [Contextualized Topic Models](https://github.com/MilaNLProc/contextualized-topic-models/), [RecList](https://github.com/RecList/reclist), [FashionCLIP](https://huggingface.co/patrickjohncyh/fashion-clip))
 
-
-I recently joined the [Giving What We Can](https://www.givingwhatwecan.org/) initiative and donate monthly; 
-You should consider joining, if you can. While I haven't formally [pledged](https://www.givingwhatwecan.org/pledge) yet, I hope to be able to do so soon.
+I recently joined the [Giving What We Can](https://www.givingwhatwecan.org/) initiative and donate monthly.
