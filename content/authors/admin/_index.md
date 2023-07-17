@@ -93,7 +93,7 @@ My work appeared in different AI venues (e.g., [AAAI](https://www.aaai.org/ojs/i
 [3](https://www.knowledge.unibocconi.eu/notizia.php?idArt=21787),
 [4](https://blog.coveo.com/multi-brand-personalization-in-ecommerce/)).
 
-* I often collaborate with industry partners (e.g., [Coveo](https://blog.coveo.com/multi-brand-personalization-in-ecommerce/), [OuterBounds](https://outerbounds.com/blog/llm-tuning-metaflow/).
+* I often collaborate with industry folks (e.g., [Coveo](https://blog.coveo.com/multi-brand-personalization-in-ecommerce/), [OuterBounds](https://outerbounds.com/blog/llm-tuning-metaflow/)).
 * My GitHub projects have collected many stars over the past few years (e.g., [Contextualized Topic Models](https://github.com/MilaNLProc/contextualized-topic-models/), [RecList](https://github.com/RecList/reclist), [FashionCLIP](https://huggingface.co/patrickjohncyh/fashion-clip))
 
 I recently joined the [Giving What We Can](https://www.givingwhatwecan.org/) initiative and donate monthly.
