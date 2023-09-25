@@ -85,7 +85,7 @@ By actively participating in each stage of the process, I aim to contribute to t
 
 My work appeared in different AI venues (e.g., [AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/4594/4472), 
 [ACL](https://www.aclweb.org/anthology/2020.acl-main.154.pdf), [ICLR](https://openreview.net/forum?id=KRLUvxh8uaX), 
-[NAACL](https://aclanthology.org/2021.naacl-main.348/), [EACL](https://aclanthology.org/2021.eacl-main.143/)).
+[NAACL](https://aclanthology.org/2021.naacl-main.348/), [EACL](https://aclanthology.org/2021.eacl-main.143/), [Nature Medicine](https://www.nature.com/articles/s41591-023-02504-3)).
   and it has as also been featured in press or in company media outlets 
   (see, [1](https://phys.org/news/2020-02-machine-quantum-optics.html),
 [2](https://www.photonics.com/Articles/Neural_Network_Improves_Quantum_Tomography/a65552),
