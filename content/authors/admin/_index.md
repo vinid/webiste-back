@@ -79,9 +79,8 @@ I love the multifaceted nature of the field; it allows me to engage in different
 
 * From building and using foundation models (e.g., [Instruction Tuning](https://outerbounds.com/blog/custom-llm-tuning/),
 [LLaMA and LoRA](https://outerbounds.com/blog/llm-tuning-metaflow/), [RAGs](https://outerbounds.com/blog/retrieval-augmented-generation/), 
-[FashionCLIP](https://huggingface.co/patrickjohncyh/fashion-clip));
-* To gaining deep insights into their inner workings (e.g., [Compositionality in Vision and Language](https://openreview.net/forum?id=KRLUvxh8uaX)); 
-* Moreover, I recognize the importance of safety and ethical implications of Generative AI, making it an integral part of my work (e.g., [DallE And Stable Diffusion](https://arxiv.org/abs/2211.03759)). 
+[FashionCLIP](https://huggingface.co/patrickjohncyh/fashion-clip), [PLIP](https://www.nature.com/articles/s41591-023-02504-3)) to gaining deep insights into their inner workings (e.g., [Compositionality in Vision and Language](https://openreview.net/forum?id=KRLUvxh8uaX)); 
+* Moreover, I recognize the importance of safety and ethical implications of Generative AI, making it an integral part of my work (e.g., [DallE And Stable Diffusion](https://arxiv.org/abs/2211.03759), [Safety-Tuned LLaMAs](https://arxiv.org/abs/2309.07875)). 
 By actively participating in each stage of the process, I aim to contribute to the advancement and responsible use of generative AI technology.
 
 My work appeared in different AI venues (e.g., [AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/4594/4472), 
