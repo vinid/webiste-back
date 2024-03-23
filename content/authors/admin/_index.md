@@ -71,28 +71,25 @@ email: "fede@stanford.edu"
 highlight_name: true
 ---
 
-Hello! I am Federico Bianchi, I am a post-doctoral researcher at Stanford University with
+Hello! I am Federico Bianchi, I am a post-doctoral researcher at Stanford University working with
 [Prof. Dan Jurafsky](https://web.stanford.edu/~jurafsky/). I am passionate about working across the entire spectrum of AI and more recent generative AI.
  
-
 I love the multifaceted nature of the field; it allows me to engage in different tasks and contribute to the development:
 
 * From building and using foundation models (e.g., [PLIP](https://www.nature.com/articles/s41591-023-02504-3), [Instruction Tuning](https://outerbounds.com/blog/custom-llm-tuning/),
 [LLaMA and LoRA](https://outerbounds.com/blog/llm-tuning-metaflow/), [RAGs](https://outerbounds.com/blog/retrieval-augmented-generation/), 
 [FashionCLIP](https://huggingface.co/patrickjohncyh/fashion-clip)) to gaining deep insights into their inner workings (e.g., [Compositionality in Vision and Language](https://openreview.net/forum?id=KRLUvxh8uaX)); 
 * Moreover, I recognize the importance of safety and ethical implications of Generative AI, making it an integral part of my work (e.g., [DallE And Stable Diffusion](https://arxiv.org/abs/2211.03759), [Safety-Tuned LLaMAs](https://arxiv.org/abs/2309.07875)). 
-By actively participating in each stage of the process, I aim to contribute to the advancement and responsible use of generative AI technology.
 
 My work appeared in different AI venues (e.g., [AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/4594/4472), 
 [ACL](https://www.aclweb.org/anthology/2020.acl-main.154.pdf), [ICLR](https://openreview.net/forum?id=KRLUvxh8uaX), 
 [NAACL](https://aclanthology.org/2021.naacl-main.348/), [EACL](https://aclanthology.org/2021.eacl-main.143/), [Nature Medicine](https://www.nature.com/articles/s41591-023-02504-3)).
-  and it has as also been featured in press or in company media outlets 
+  and it has as also been featured in press ([Nature](https://www.nature.com/articles/d41586-024-00674-9), [Nature Machine Intelligence](https://www.nature.com/articles/s42256-023-00631-7), [Washington Post](https://www.washingtonpost.com/technology/interactive/2023/ai-generated-images-bias-racism-sexism-stereotypes/)) or in company media outlets 
   (see, [1](https://phys.org/news/2020-02-machine-quantum-optics.html),
 [2](https://www.photonics.com/Articles/Neural_Network_Improves_Quantum_Tomography/a65552),
 [3](https://www.knowledge.unibocconi.eu/notizia.php?idArt=21787),
 [4](https://blog.coveo.com/multi-brand-personalization-in-ecommerce/)).
 
-* I often collaborate with industry folks (e.g., [Coveo](https://blog.coveo.com/multi-brand-personalization-in-ecommerce/), [OuterBounds](https://outerbounds.com/blog/llm-tuning-metaflow/)).
-* My GitHub projects have collected many stars over the past few years (e.g., [Contextualized Topic Models](https://github.com/MilaNLProc/contextualized-topic-models/), [RecList](https://github.com/RecList/reclist), [FashionCLIP](https://huggingface.co/patrickjohncyh/fashion-clip))
+My GitHub projects have collected thousands stars over the past few years (e.g., [Contextualized Topic Models](https://github.com/MilaNLProc/contextualized-topic-models/), [RecList](https://github.com/RecList/reclist), [FashionCLIP](https://huggingface.co/patrickjohncyh/fashion-clip))
 
 I recently joined the [Giving What We Can](https://www.givingwhatwecan.org/) initiative and donate monthly.
