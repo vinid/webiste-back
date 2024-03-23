@@ -72,9 +72,7 @@ highlight_name: true
 ---
 
 Hello! I am Federico Bianchi, I am a post-doctoral researcher at Stanford University working with
-[Prof. Dan Jurafsky](https://web.stanford.edu/~jurafsky/). I am passionate about working across the entire spectrum of AI and more recent generative AI.
- 
-I love the multifaceted nature of the field; it allows me to engage in different tasks and contribute to the development:
+[Prof. Dan Jurafsky](https://web.stanford.edu/~jurafsky/). I am passionate about working across the entire spectrum of AI and more recent generative AI:
 
 * From building and using foundation models (e.g., [PLIP](https://www.nature.com/articles/s41591-023-02504-3), [Instruction Tuning](https://outerbounds.com/blog/custom-llm-tuning/),
 [LLaMA and LoRA](https://outerbounds.com/blog/llm-tuning-metaflow/), [RAGs](https://outerbounds.com/blog/retrieval-augmented-generation/), 
@@ -84,7 +82,7 @@ I love the multifaceted nature of the field; it allows me to engage in different
 My work appeared in different AI venues (e.g., [AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/4594/4472), 
 [ACL](https://www.aclweb.org/anthology/2020.acl-main.154.pdf), [ICLR](https://openreview.net/forum?id=KRLUvxh8uaX), 
 [NAACL](https://aclanthology.org/2021.naacl-main.348/), [EACL](https://aclanthology.org/2021.eacl-main.143/), [Nature Medicine](https://www.nature.com/articles/s41591-023-02504-3)).
-  and it has as also been featured in press ([Nature](https://www.nature.com/articles/d41586-024-00674-9), [Nature Machine Intelligence](https://www.nature.com/articles/s42256-023-00631-7), [Washington Post](https://www.washingtonpost.com/technology/interactive/2023/ai-generated-images-bias-racism-sexism-stereotypes/)) or in company media outlets 
+  and it has as also been featured in press ([Nature](https://www.nature.com/articles/d41586-024-00674-9), [Nature Machine Intelligence](https://www.nature.com/articles/s42256-023-00631-7), [Washington Post](https://www.washingtonpost.com/technology/interactive/2023/ai-generated-images-bias-racism-sexism-stereotypes/)) or in company/university media outlets 
   (see, [1](https://phys.org/news/2020-02-machine-quantum-optics.html),
 [2](https://www.photonics.com/Articles/Neural_Network_Improves_Quantum_Tomography/a65552),
 [3](https://www.knowledge.unibocconi.eu/notizia.php?idArt=21787),
