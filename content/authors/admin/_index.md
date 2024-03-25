@@ -79,11 +79,11 @@ Hello! I am Federico Bianchi, I am a post-doctoral researcher at Stanford Univer
 [FashionCLIP](https://huggingface.co/patrickjohncyh/fashion-clip)) to gaining deep insights into their inner workings (e.g., [Compositionality in Vision and Language](https://openreview.net/forum?id=KRLUvxh8uaX)); 
 * Moreover, I recognize the importance of safety and ethical implications of Generative AI, making it an integral part of my work (e.g., [DallE And Stable Diffusion](https://arxiv.org/abs/2211.03759), [Safety-Tuned LLaMAs](https://arxiv.org/abs/2309.07875)). 
 
-My work appeared in different AI venues (e.g., [AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/4594/4472), 
+My work appeared in different AI venues ([AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/4594/4472), 
 [ACL](https://www.aclweb.org/anthology/2020.acl-main.154.pdf), [ICLR](https://openreview.net/forum?id=KRLUvxh8uaX), 
 [NAACL](https://aclanthology.org/2021.naacl-main.348/), [EACL](https://aclanthology.org/2021.eacl-main.143/), [Nature Medicine](https://www.nature.com/articles/s41591-023-02504-3)).
   and it has as also been featured in press ([Nature](https://www.nature.com/articles/d41586-024-00674-9), [Nature Machine Intelligence](https://www.nature.com/articles/s42256-023-00631-7), [Washington Post](https://www.washingtonpost.com/technology/interactive/2023/ai-generated-images-bias-racism-sexism-stereotypes/)) or in company/university media outlets 
-  (see, [1](https://phys.org/news/2020-02-machine-quantum-optics.html),
+  ([1](https://phys.org/news/2020-02-machine-quantum-optics.html),
 [2](https://www.photonics.com/Articles/Neural_Network_Improves_Quantum_Tomography/a65552),
 [3](https://www.knowledge.unibocconi.eu/notizia.php?idArt=21787),
 [4](https://blog.coveo.com/multi-brand-personalization-in-ecommerce/)).
